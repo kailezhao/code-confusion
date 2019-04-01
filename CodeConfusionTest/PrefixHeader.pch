@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  CodeConfusionTest
+//
+//  Created by zkl on 2018/12/21.
+//  Copyright © 2018 zkl. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Confusion.h"
+
+#endif /* PrefixHeader_pch */
+
